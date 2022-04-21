@@ -1,4 +1,4 @@
-# Mongo Installation
+# MongoDB QuickBook
 
    ##  Using Homebrew
       You can install mongodb using below brew command
