@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  mongodb_container:
+    image: mongo:latest
+    container_name: mongo_demo
+    ports:
+      - 27017:27017
+    volumes:
+      - /Users/harishkaparwan/Developer/data:/data/db
