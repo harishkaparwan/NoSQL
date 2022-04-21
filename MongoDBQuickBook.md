@@ -36,6 +36,6 @@ Once docker extension is install then open docker-compose.yml file in visual cod
      
 #  MQL Cheat-sheet
  
-  - [MQL Cheat-Sheet](https://github.com/neelabalan/mongodb-sample-dataset)
+  - [MQL Cheat-Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet/#connect-mongodb-shell)
      
 
